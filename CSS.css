@@ -222,7 +222,7 @@ footer p {
 /* Conteneur des images */
 .carousel-images {
     display: flex; /* Les images sont alignées en ligne */
-    animation: slide 10s infinite; /* Animation de défilement */
+    animation: slide 20s infinite; /* Animation de défilement */
 }
 
 /* Chaque image */
